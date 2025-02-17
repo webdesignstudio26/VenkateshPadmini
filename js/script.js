@@ -53,7 +53,7 @@ var x = setInterval(function() {
     // If the count down is over, write some text 
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("time").innerHTML = "Wedding Completed !!";
+        document.getElementById("time").innerHTML = "Wedding Invitation !!";
         // document.getElementById("time").innerHTML = " See The best Captured Moments ";
         // document.getElementById("time").href = "https://photos.app.goo.gl/Wn9PRK7FMpxBKF5s6/";
         // document.getElementById("time").target = "_blank";
